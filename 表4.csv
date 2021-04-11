@@ -1,0 +1,1046 @@
+compound, mp-id, spacegroup, mineral-prototype
+SrHfO3,mp-13108,P4mm,(Cubic) Perovskite
+SrHfO3,mp-13109,Imma,Orthorhombic Perovskite
+SrHfO3,mp-3378,Pnma,Orthorhombic Perovskite
+SrHfO3,mp-3721,I4/mcm,None
+SrHfO3,mp-4551,Pm-3m,(Cubic) Perovskite
+SrHfO3,mp-4673,Cmcm,Orthorhombic Perovskite
+SrHfO3,mp-550908,P4/mbm,None
+TeCF3,mp-29429,P2_1/c,Cubic alpha N2
+NaPO3,mp-4734,P2_1/c,None
+NaPO3,mp-555118,Pnma,None
+NaPO3,mp-558192,P2_1/c,None
+NaPO3,mp-648053,I4_1/a,None
+NaPO3,mp-648072,I4_1/a,None
+NaPO3,mp-864891,P-1,None
+MgSiO3,mp-1020115,Pc,None
+MgSiO3,mp-1020117,Pc,None
+MgSiO3,mp-1020118,Pca2_1,None
+MgSiO3,mp-1020123,P2/c,None
+MgSiO3,mp-1020124,P2_1/c,None
+MgSiO3,mp-1020125,Pca2_1,None
+MgSiO3,mp-3470,P2_1/c,None
+MgSiO3,mp-3547,Pnma,Orthorhombic Perovskite
+MgSiO3,mp-4321,C2/c,None
+MgSiO3,mp-4391,Cmcm,None
+MgSiO3,mp-5026,Pbcn,None
+MgSiO3,mp-554137,P2_1/c,None
+MgSiO3,mp-556940,Pbca,None
+MgSiO3,mp-557803,Pna2_1,None
+MgSiO3,mp-5834,Pbca,None
+MgSiO3,mp-5924,R-3,Ilmenite
+MgSiO3,mp-603907,C2/c,None
+MgSiO3,mp-603930,C2/c,None
+MgSiO3,mp-642209,Pna2_1,None
+MgSiO3,mp-642210,Pna2_1,None
+MgSiO3,mp-642216,P2_1/c,None
+MgSiO3,mp-642228,Pbca,None
+MgSiO3,mp-644879,Pbcn,None
+MgSiO3,mp-657336,Pna2_1,None
+MgSiO3,mp-657338,Pbca,None
+CsAuBr3,mp-569548,I4/mmm,None
+CsMgF3,mp-8401,Pm-3m,(Cubic) Perovskite
+BaTiO3,mp-1076932,Amm2,None
+BaTiO3,mp-19990,P4/mmm,None
+BaTiO3,mp-2998,Pm-3m,(Cubic) Perovskite
+BaTiO3,mp-5020,R3m,(Cubic) Perovskite
+BaTiO3,mp-558125,C222_1,None
+BaTiO3,mp-5777,Amm2,(Cubic) Perovskite
+BaTiO3,mp-5933,P6_3/mmc,(Cubic) Perovskite
+BaTiO3,mp-5986,P4mm,(Cubic) Perovskite
+BaTiO3,mp-644497,Amm2,None
+BaTiO3,mp-995191,Amm2,None
+RbClO3,mp-23011,R3m,Potassium chlorate
+BiRhO3,mp-573119,Pnma,Orthorhombic Perovskite
+TlClO3,mp-29738,R3m,Ammonia
+CsCdCl3,mp-568544,Pm-3m,(Cubic) Perovskite
+CsCdCl3,mp-619015,P6_3/mmc,(Cubic) Perovskite
+TiFeO3,mp-19074,Cmcm,None
+TiFeO3,mp-19270,R3c,Ilmenite
+TiFeO3,mp-19417,R-3,Ilmenite
+TiFeO3,mp-20073,Pnma,Orthorhombic Perovskite
+RbBSe3,mp-10552,P2_1/c,None
+SiH3I,mp-28538,P2_1/c,Silicon tetrafluoride
+CsPbF3,mp-20282,R3c,Orthorhombic Perovskite
+CsPbF3,mp-5811,Pm-3m,(Cubic) Perovskite
+MnNCl3,mp-1069129,Pm-3m,(Cubic) Perovskite
+MnNCl3,mp-1180177,Cmcm,Orthorhombic Perovskite
+MnNCl3,mp-1190482,Pnma,Orthorhombic Perovskite
+ZnSiO3,mp-1020623,R-3,Ilmenite
+ZnSiO3,mp-562182,C2/c,None
+ZnSiO3,mp-619034,Pbca,None
+ZnSiO3,mp-641917,P2_1/c,None
+NaTaO3,mp-3858,Pnma,Orthorhombic Perovskite
+NaTaO3,mp-4170,Pm-3m,(Cubic) Perovskite
+NaTaO3,mp-4675,P4/mbm,None
+NaTaO3,mp-4699,Cmcm,Orthorhombic Perovskite
+TiCoO3,mp-19424,R-3,Ilmenite
+BaNbO3,mp-3020,Pm-3m,(Cubic) Perovskite
+HfPbO3,mp-22535,Pm-3m,(Cubic) Perovskite
+HfPbO3,mp-22734,Pbam,None
+HfPbO3,mp-669414,Pba2,None
+PNO3,mp-1197085,Cmce,Indium
+PNO3,mp-1200596,Pccn,Indium
+LiTaO3,mp-1105280,Pnma,Ilmenite
+LiTaO3,mp-1105326,Pnma,None
+LiTaO3,mp-3666,R3c,Ilmenite
+KNbO3,mp-4342,P4mm,(Cubic) Perovskite
+KNbO3,mp-5246,Amm2,(Cubic) Perovskite
+KNbO3,mp-7375,R3m,(Cubic) Perovskite
+KNbO3,mp-935811,Pm-3m,(Cubic) Perovskite
+KPO3,mp-1196581,Pa-3,None
+KPO3,mp-13981,Pnma,None
+KPO3,mp-5039,P2_1/c,None
+KPO3,mp-557880,P2_1/c,None
+KPO3,mp-557985,P2_1/c,None
+KCO3,mp-1105868,P2_1/c,None
+KCO3,mp-1106094,P2_1/c,None
+KCO3,mp-31302,P2_1/c,None
+LiIO3,mp-1080052,P6_3/mmc,None
+LiIO3,mp-22955,P6_3,None
+LiIO3,mp-22994,Pna2_1,None
+LiIO3,mp-23384,P4_2/n,None
+LiIO3,mp-545343,P6_322,Corundum
+LiIO3,mp-555562,P4_2/n,Germanium disuphide
+CsPbCl3,mp-23037,Pm-3m,(Cubic) Perovskite
+HgClO3,mp-30937,P2_1/c,Indium
+MnBiO3,mp-1105271,Pnma,Orthorhombic Perovskite
+MnBiO3,mp-1106239,Cc,None
+MnBiO3,mp-1194603,P2_1/c,None
+MnBiO3,mp-1202955,Pmn2_1,None
+MnBiO3,mp-23477,C2,None
+MnBiO3,mp-556711,P2_1/c,None
+TiZnO3,mp-1078470,R3c,Calcite
+TiZnO3,mp-14142,R-3,Ilmenite
+SrRhO3,mp-1017441,Pm-3m,(Cubic) Perovskite
+ScAlO3,mp-4471,Pnma,Orthorhombic Perovskite
+CrFeO3,mp-1078458,R-3,Ilmenite
+CrPbO3,mp-22364,Pm-3m,(Cubic) Perovskite
+CsMgCl3,mp-23004,P6_3/mmc,None
+TiCdO3,mp-13641,R-3,Ilmenite
+TiCdO3,mp-14550,Pnma,Orthorhombic Perovskite
+TiCdO3,mp-20940,Pmc2_1,Orthorhombic Perovskite
+TiCdO3,mp-22345,Pm-3m,(Cubic) Perovskite
+TiCdO3,mp-5052,Pna2_1,Orthorhombic Perovskite
+CsMgH3,mp-23751,R-3m,None
+CsMgH3,mp-571020,Pmmn,None
+NaMnCl3,mp-27176,R-3,Ilmenite
+PPbS3,mp-20199,P2_1/c,None
+GePdS3,mp-541785,C2/m,None
+CsPbI3,mp-1069538,Pm-3m,(Cubic) Perovskite
+CsPbI3,mp-540839,Pnma,None
+CaRhO3,mp-1078659,Cmcm,None
+CaRhO3,mp-1181917,Pnma,Orthorhombic Perovskite
+NbCl3O,mp-27815,P4_2/mnm,None
+NbCl3O,mp-556422,P-42_1m,None
+FeSiO3,mp-1199561,P2_1/c,None
+FeSiO3,mp-18269,P-1,None
+FeSiO3,mp-21939,Pbca,None
+FeSiO3,mp-650392,P-1,None
+CsGaSe3,mp-510283,P2_1/c,None
+CdSO3,mp-18634,R-3,None
+CdSO3,mp-556680,P2_1/c,None
+CdSO3,mp-8516,P2_1/c,None
+NaPS3,mp-1189520,P2_1/m,None
+ZnGeO3,mp-1020631,R3c,Ilmenite
+ZnGeO3,mp-8285,R-3,Ilmenite
+ZnAgF3,mp-14099,Pm-3m,(Cubic) Perovskite
+BaTcO3,mp-555174,P6_3/mmc,(Cubic) Perovskite
+SrAlH3,mp-1068011,Pm-3m,(Cubic) Perovskite
+ZnCO3,mp-9812,R-3c,Calcite
+AsCl3O,mp-29863,P2_1/c,Indium
+BaTeO3,mp-5431,P2_1/m,Potassium chlorate
+BaTeO3,mp-556021,Pnma,None
+CrSiTe3,mp-3779,R-3,None
+BaTaSe3,mp-1078588,P6_3/mmc,None
+SrZrO3,mp-1020622,P4/mbm,None
+SrZrO3,mp-1068742,P4mm,Pb(Zr_(1-x)Ti_x)O3
+SrZrO3,mp-1080575,Imma,Orthorhombic Perovskite
+SrZrO3,mp-3323,Pm-3m,(Cubic) Perovskite
+SrZrO3,mp-3626,Cmcm,Orthorhombic Perovskite
+SrZrO3,mp-4387,Pnma,Orthorhombic Perovskite
+SrZrO3,mp-5076,I4/mcm,None
+SrZrO3,mp-557203,P2_13,None
+SrZrO3,mp-613402,Pm-3m,(Cubic) Perovskite
+SrZrS3,mp-5193,Pnma,Orthorhombic Perovskite
+SrZrS3,mp-558760,Pnma,None
+KSiO3,mp-1198795,Cmce,None
+KSiO3,mp-1199261,P2_1/c,None
+AlSBr3,mp-1079481,P-3m1,Silicon tetrafluoride
+NaBeH3,mp-23729,Pm-3m,(Cubic) Perovskite
+CsCdBr3,mp-541899,P6_3/mmc,None
+CsCdBr3,mp-570231,Pm-3m,(Cubic) Perovskite
+InGaS3,mp-19885,Cmc2_1,None
+CdSeO3,mp-559203,P2_1/c,None
+CdSeO3,mp-9186,Pnma,None
+MnPbO3,mp-1106337,P2/c,None
+MnPbO3,mp-510672,C2/c,None
+MgGeO3,mp-3047,Cmcm,None
+MgGeO3,mp-3759,R-3,Ilmenite
+MgGeO3,mp-4575,Pbca,None
+MgGeO3,mp-4819,C2/c,None
+CsFeBr3,mp-1079847,P6_3/mmc,None
+MnTlI3,mp-23443,Pnma,None
+YNiO3,mp-19242,Pnma,Orthorhombic Perovskite
+CaBO3,mp-1084760,P2_1/m,None
+CaBO3,mp-1189809,P2_1/c,None
+TlCdI3,mp-27252,Pnma,None
+YAlO3,mp-3792,Pnma,Orthorhombic Perovskite
+YAlO3,mp-7964,P6_3/mmc,None
+CrOF3,mp-31703,P4_1,None
+CsTiCl3,mp-28283,P6_3/mmc,None
+HS3N,mp-27669,P2/c,Indium
+HS3N,mp-696216,Pnma,Indium
+HS3N,mp-706654,Pbca,Indium
+HIO3,mp-23963,P2_12_12_1,None
+HIO3,mp-556216,Pbca,Indium
+SnCCl3,mp-1068389,Pm-3m,(Cubic) Perovskite
+SnCCl3,mp-1068985,R3m,Indium
+RbGeI3,mp-567855,P2_12_12_1,None
+RbGeI3,mp-571458,Pm-3m,(Cubic) Perovskite
+CsSnS3,mp-561710,P-1,None
+CaZrS3,mp-7781,Pnma,Orthorhombic Perovskite
+SrSiO3,mp-1017439,Pm-3m,(Cubic) Perovskite
+SrSiO3,mp-18313,P-1,None
+SrSiO3,mp-3978,C2/c,None
+SrSiO3,mp-561547,P2_1/c,None
+BaIrO3,mp-4307,C2/c,Orthorhombic Perovskite
+BaIrO3,mp-542897,C2/m,Orthorhombic Perovskite
+BaIrO3,mp-5660,Pm-3m,(Cubic) Perovskite
+CsHgBr3,mp-1194175,C2/c,None
+CsHgBr3,mp-27718,Pm-3m,(Cubic) Perovskite
+LiCaH3,mp-1079935,R-3c,None
+KCuF3,mp-1080828,P4/mbm,(Cubic) Perovskite
+KCuF3,mp-3682,I4/mcm,(Cubic) Perovskite
+KCuF3,mp-556045,I4/mcm,None
+KCuF3,mp-5566,Pm-3m,(Cubic) Perovskite
+KCuF3,mp-669347,I4/mcm,(Cubic) Perovskite
+YCoO3,mp-1288734,P2_1/c,Orthorhombic Perovskite
+YCoO3,mp-22668,Pnma,Orthorhombic Perovskite
+NbSeI3,mp-541817,C2/c,None
+KIO3,mp-1080058,R3c,None
+KIO3,mp-1200675,R3,None
+KIO3,mp-23487,P1,None
+KIO3,mp-552729,R3m,None
+KIO3,mp-558843,Pm-3m,(Cubic) Perovskite
+CsNO3,mp-1196533,Pa-3,None
+CsNO3,mp-22628,Pmmn,None
+CsNO3,mp-561851,P3_1,None
+NaSeO3,mp-1180453,C2/c,None
+NaSeO3,mp-1197679,C2/c,None
+NiBiO3,mp-1105718,P-1,Orthorhombic Perovskite
+RbTiBr3,mp-569807,P6_3/mmc,None
+CoSiO3,mp-699575,Pbca,None
+BaCrO3,mp-19271,P6_3/mmc,(Cubic) Perovskite
+BaCrO3,mp-540926,P6_3/mmc,(Cubic) Perovskite
+BaCrO3,mp-557081,P6_3/mmc,(Cubic) Perovskite
+NaNbO3,mp-1078295,R-3,Ilmenite
+NaNbO3,mp-1105765,Pnma,Orthorhombic Perovskite
+NaNbO3,mp-1190015,Pmn2_1,Orthorhombic Perovskite
+NaNbO3,mp-1194823,Pnma,None
+NaNbO3,mp-1195803,Pnma,Orthorhombic Perovskite
+NaNbO3,mp-1198142,Pmmn,Orthorhombic Perovskite
+NaNbO3,mp-1199037,P222_1,(Cubic) Perovskite
+NaNbO3,mp-1199593,Pmmn,Orthorhombic Perovskite
+NaNbO3,mp-1203293,Pnma,Orthorhombic Perovskite
+NaNbO3,mp-3136,Pm-3m,(Cubic) Perovskite
+NaNbO3,mp-3671,Pbcm,Orthorhombic Perovskite
+NaNbO3,mp-4419,P4/mbm,None
+NaNbO3,mp-4514,R3c,Ilmenite
+NaNbO3,mp-4681,Pmc2_1,Orthorhombic Perovskite
+NaNbO3,mp-4748,Cmcm,Orthorhombic Perovskite
+NaNbO3,mp-558920,Pca2_1,Orthorhombic Perovskite
+RbPdF3,mp-9060,Pm-3m,(Cubic) Perovskite
+TlBS3,mp-28809,P2_1/c,None
+AlFeO3,mp-21216,Pna2_1,None
+BaFeO3,mp-1192651,P6_3/mmc,(Cubic) Perovskite
+BaFeO3,mp-19035,Pm-3m,(Cubic) Perovskite
+NaSbO3,mp-20011,Fd-3m,None
+NaSbO3,mp-22212,Pnma,Orthorhombic Perovskite
+NaSbO3,mp-4482,R-3,Ilmenite
+CsFeCl3,mp-29400,P6_3/mmc,None
+YFeO3,mp-20783,Pnma,Orthorhombic Perovskite
+NaMgF3,mp-12948,Cmcm,None
+NaMgF3,mp-2955,Pnma,Orthorhombic Perovskite
+NaMgF3,mp-560399,Pm-3m,(Cubic) Perovskite
+RbCuF3,mp-8858,I4/mcm,None
+CrPSe3,mp-1101069,C2/m,None
+TlIO3,mp-22981,R3m,Tetraauricupride
+TlIO3,mp-546200,Pm-3m,(Cubic) Perovskite
+PPbSe3,mp-20316,P2_1/c,None
+CsAuCl3,mp-23026,Pm-3m,(Cubic) Perovskite
+CsAuCl3,mp-23484,I4/mmm,None
+CsPS3,mp-504838,Immm,None
+LiOsO3,mp-1078188,R-3c,Calcite
+LiOsO3,mp-1078358,R3c,Ilmenite
+SnPS3,mp-1079752,R-3,None
+SnPS3,mp-1080140,C2/m,None
+SnPS3,mp-13923,Pc,None
+SnPS3,mp-4252,P2_1/c,None
+CsCaF3,mp-7104,Pm-3m,(Cubic) Perovskite
+CuPS3,mp-1105187,P4_2/mnm,None
+CaCO3,mp-1079918,P-1,None
+CaCO3,mp-1194399,C2/c,Calcite
+CaCO3,mp-1197230,P-1,None
+CaCO3,mp-1197939,P-1,None
+CaCO3,mp-3205,Pmmn,None
+CaCO3,mp-3953,R-3c,Calcite
+CaCO3,mp-4626,Pnma,None
+CaCO3,mp-548403,C222_1,None
+CaCO3,mp-553939,Pnma,Calcite
+CaCO3,mp-556235,P2_1/c,Calcite
+CaCO3,mp-561412,C2,Calcite
+SrTeO3,mp-1179320,P-1,None
+SrTeO3,mp-561385,C2,None
+SrTeO3,mp-662523,P1,None
+SrTeO3,mp-972117,P2_1/c,None
+CsPbBr3,mp-567629,Pnma,Orthorhombic Perovskite
+CsPbBr3,mp-567681,Pnma,None
+CsPbBr3,mp-600089,Pm-3m,(Cubic) Perovskite
+ZnPbO3,mp-1078329,R3c,Ilmenite
+RbPS3,mp-556953,Immm,None
+SnPSe3,mp-570370,Pc,None
+SnPSe3,mp-5706,P2_1/c,None
+TlSbO3,mp-30058,R-3,None
+TlSbO3,mp-561465,P6_322,None
+LiNbO3,mp-1078377,R-3,Ilmenite
+LiNbO3,mp-3731,R3c,Calcite
+LiNbO3,mp-552588,R-3c,Hydrophilite
+SrRuO3,mp-1079352,Cmcm,None
+SrRuO3,mp-1192792,Pnma,Indium
+SrRuO3,mp-22390,Pnma,Orthorhombic Perovskite
+SrRuO3,mp-4346,Pm-3m,(Cubic) Perovskite
+SrRuO3,mp-4525,I4/mcm,None
+SrRuO3,mp-611033,Pnma,None
+CdTcO3,mp-1189706,Pnma,Orthorhombic Perovskite
+CuAgF3,mp-1188802,P-1,Orthorhombic Perovskite
+CaMoO3,mp-19012,Pnma,Orthorhombic Perovskite
+CsAlTe3,mp-1189272,P2_1/c,None
+NbAgO3,mp-1203481,Pmc2_1,None
+NbAgO3,mp-1205362,Cmcm,Orthorhombic Perovskite
+NbAgO3,mp-12725,Pm-3m,(Cubic) Perovskite
+NbAgO3,mp-5537,Pbcm,Pb (Zr_0.50 Ti_0.48) O_3
+KMgF3,mp-3448,Pm-3m,(Cubic) Perovskite
+NaIO3,mp-22989,Pnma,None
+NaIO3,mp-545825,Cmmm,None
+NaIO3,mp-559252,Pna2_1,None
+LiVO3,mp-19373,C2/c,None
+TlPS3,mp-8249,Immm,Indium
+YMnO3,mp-19227,P6_3/mmc,None
+YMnO3,mp-19385,P6_3cm,None
+YMnO3,mp-20699,Pnma,Orthorhombic Perovskite
+LiAsO3,mp-559767,C2/c,None
+LiAsO3,mp-9657,R-3,Ilmenite
+CaSiO3,mp-17552,C2/c,None
+CaSiO3,mp-3382,P4/mbm,(Cubic) Perovskite
+CaSiO3,mp-3387,I4/mcm,None
+CaSiO3,mp-4428,P-1,Esseneite
+CaSiO3,mp-4429,P-1,None
+CaSiO3,mp-5096,Imma,None
+CaSiO3,mp-560885,Pnma,None
+CaSiO3,mp-561086,C2/c,None
+CaSiO3,mp-5733,P2_1/c,None
+CaSiO3,mp-5893,Pm-3m,(Cubic) Perovskite
+CaSiO3,mp-649676,P2_1/c,None
+RbVBr3,mp-29314,P6_3cm,None
+RbVBr3,mp-568136,P-3c1,None
+RbVBr3,mp-570099,P6_3/mmc,None
+CsSnBr3,mp-27214,Pm-3m,(Cubic) Perovskite
+TePbO3,mp-543039,C2/c,None
+TePbO3,mp-555021,P4_1,None
+BaVS3,mp-3451,Cmc2_1,None
+BaVS3,mp-4227,P6_3/mmc,None
+BaVS3,mp-555857,C222_1,None
+AgTe3I,mp-570431,Pmna,None
+CsCaH3,mp-644203,Pm-3m,(Cubic) Perovskite
+RbPSe3,mp-571464,P3_121,None
+VPbO3,mp-1070440,Pm-3m,(Cubic) Perovskite
+VPbO3,mp-20032,P4mm,None
+RbVCl3,mp-23319,P6_3/mmc,None
+CClF3,mp-28473,Cmc2_1,Silicon tetrafluoride
+KMnBr3,mp-29636,Pnma,None
+HgNO3,mp-1197269,P4_132,None
+HgNO3,mp-542289,P2_1,Indium
+MnSiO3,mp-17766,P2_1/c,None
+MnSiO3,mp-560199,P-1,None
+MnSiO3,mp-5945,P-1,None
+KPSe3,mp-569702,P3_1,None
+KPSe3,mp-571452,P3_121,None
+VBO3,mp-18946,R-3c,Calcite
+AgSe3I,mp-569052,Pmna,None
+RbCuCl3,mp-23055,Pbcn,None
+RbCuCl3,mp-568857,C2/c,None
+RbCuCl3,mp-569526,P6_3/mmc,None
+RbCuCl3,mp-571305,C2,None
+ZrSnS3,mp-17324,Pnma,trigonal omega
+TlNiO3,mp-1178989,P2_1/c,Orthorhombic Perovskite
+TlNiO3,mp-18001,Pnma,Orthorhombic Perovskite
+CsCrBr3,mp-27179,P6_3mc,None
+AlBO3,mp-8110,R-3c,Calcite
+RbNbO3,mp-3283,P-1,None
+RbSnF3,mp-1198796,P2_1/c,None
+KIrO3,mp-639811,Pn-3,None
+MnTlCl3,mp-30528,Pnma,Orthorhombic Perovskite
+MnTlCl3,mp-570290,Pm-3m,(Cubic) Perovskite
+MnTlCl3,mp-570300,Pnma,None
+KMnF3,mp-1205353,Imma,None
+KMnF3,mp-555123,Pm-3m,(Cubic) Perovskite
+KMnF3,mp-555359,I4/mcm,None
+KMnF3,mp-558046,Pnma,Orthorhombic Perovskite
+KMnF3,mp-560382,P4/mbm,(Cubic) Perovskite
+KMnF3,mp-644332,P2_1/m,(Cubic) Perovskite
+SrMnO3,mp-1017466,Pmmm,(Cubic) Perovskite
+SrMnO3,mp-1193101,P6_3/mmc,(Cubic) Perovskite
+SrMnO3,mp-19001,P6_3/mmc,(Cubic) Perovskite
+SrMnO3,mp-559975,C222_1,None
+FeBiO3,mp-1069079,P4mm,None
+FeBiO3,mp-22949,R3m,Pb (Zr_0.50 Ti_0.48) O_3
+FeBiO3,mp-23501,R3c,Ilmenite
+FeBiO3,mp-547069,Cmcm,(Cubic) Perovskite
+FeBiO3,mp-548231,R3,Ilmenite
+FeBiO3,mp-551451,P1,None
+FeBiO3,mp-645159,Pnma,Orthorhombic Perovskite
+TiBO3,mp-9716,R-3c,Calcite
+BaTeS3,mp-27499,Pnma,None
+CsSnCl3,mp-1070375,Pm-3m,(Cubic) Perovskite
+CsSnCl3,mp-27394,P2_1/c,None
+TlCdCl3,mp-28218,Pnma,None
+KNO3,mp-5158,Pnma,None
+KNO3,mp-672644,Pnma,None
+KNO3,mp-6920,R3m,None
+KNO3,mp-9475,Pnma,None
+MoNCl3,mp-23396,P-1,None
+MnGeO3,mp-1106201,C2/c,None
+MnGeO3,mp-20798,R-3,Ilmenite
+MnGeO3,mp-643577,Pbca,None
+CrSbSe3,mp-15236,Pnma,None
+H3CI,mp-1181198,Pnma,Ammonia
+KSbO3,mp-14607,Pn-3,None
+KSbO3,mp-16293,Fd-3m,None
+KSbO3,mp-547792,R-3,Ilmenite
+CsSnI3,mp-27381,Pnma,None
+CsSnI3,mp-568570,Pnma,Orthorhombic Perovskite
+CsSnI3,mp-614013,Pm-3m,(Cubic) Perovskite
+CsSnI3,mp-616378,P4/mbm,None
+NaBrO3,mp-23339,P2_13,None
+NaBrO3,mp-608595,P1,None
+TaAgS3,mp-561242,Cmc2_1,None
+TaAgS3,mp-5821,Cmcm,None
+AgTeO3,mp-558637,P2_1/c,None
+AgTeO3,mp-559257,P2_1/c,None
+AgTeO3,mp-561489,P2_1/m,None
+GaBO3,mp-1078259,R-3c,Calcite
+HgPS3,mp-27178,P-1,None
+ZnPS3,mp-3342,C2/m,None
+NaCaH3,mp-1078750,P-1,None
+NaCaH3,mp-1078933,R3c,Ilmenite
+CdSnO3,mp-754329,R-3,Ilmenite
+CdSnO3,mp-849371,Pnma,Orthorhombic Perovskite
+SnPbS3,mp-1188095,Pnma,None
+CaZrO3,mp-4571,Pnma,Orthorhombic Perovskite
+CaZrO3,mp-542112,Pm-3m,(Cubic) Perovskite
+PdSeO3,mp-545482,P2_1/m,None
+PdSeO3,mp-546684,C2/m,None
+BaPbO3,mp-20461,C2/m,Orthorhombic Perovskite
+BaPbO3,mp-20991,I4/mcm,None
+BaPbO3,mp-21280,Pm-3m,(Cubic) Perovskite
+BaPbO3,mp-22230,Imma,Orthorhombic Perovskite
+BaPbO3,mp-561598,Pm-3m,(Cubic) Perovskite
+CrBiO3,mp-23456,C2/c,None
+CrBiO3,mp-546027,R3c,Corundum
+CrBiO3,mp-559851,Pnma,Orthorhombic Perovskite
+HgNCl3,mp-1069250,P4/mmm,None
+CsMnBr3,mp-23048,P6_3/mmc,None
+LiBiO3,mp-29077,Pccn,Ilmenite
+NaClO3,mp-23330,P2_13,None
+NaClO3,mp-555726,P2_13,None
+NaClO3,mp-630949,P2_1/c,None
+OsPbO3,mp-680932,Fd-3m,None
+BaNiO3,mp-19138,P6_3/mmc,None
+BaNiO3,mp-19241,P6_3mc,None
+KSnF3,mp-28774,P-1,None
+NaVO3,mp-19083,C2/c,None
+NaVO3,mp-555665,Pnma,None
+RbCaF3,mp-3654,Pm-3m,(Cubic) Perovskite
+KMnCl3,mp-23049,Pnma,Orthorhombic Perovskite
+KMnCl3,mp-567530,Pnma,None
+CsCoCl3,mp-504708,P6_3/mmc,None
+MnVO3,mp-1106224,P2_1/m,Orthorhombic Perovskite
+CsCrI3,mp-580597,Pbcn,None
+CsMgBr3,mp-29750,P6_3/mmc,None
+LiNO3,mp-1094130,R-3m,None
+LiNO3,mp-8180,R-3c,Calcite
+RbCdBr3,mp-27400,Pnma,None
+RbNO3,mp-13658,Pmmn,None
+RbNO3,mp-5073,P3_1,None
+RbNO3,mp-614951,P3_2,None
+SrCoO3,mp-1281764,Amm2,(Cubic) Perovskite
+SrCoO3,mp-505766,Pm-3m,(Cubic) Perovskite
+CaMnO3,mp-1017467,Pm-3m,(Cubic) Perovskite
+CaMnO3,mp-1188497,P6_3/mmc,(Cubic) Perovskite
+CaMnO3,mp-19201,Pnma,Orthorhombic Perovskite
+NiNF3,mp-1068795,Pm-3m,(Cubic) Perovskite
+NiNF3,mp-1192886,P6_3/mmc,None
+YScO3,mp-755165,Pnma,Orthorhombic Perovskite
+AgPS3,mp-5470,C2/m,None
+CuSeO3,mp-22414,Pnma,None
+CuSeO3,mp-22688,Pbca,None
+CuSeO3,mp-554440,P2_1/c,None
+CuSeO3,mp-560049,P-1,None
+WI3O,mp-28573,P4_2/mnm,None
+RbAgF3,mp-7767,I4/mcm,(Cubic) Perovskite
+BaGeS3,mp-1195469,P2_1/c,None
+AgIO3,mp-1202188,Pbca,None
+AgIO3,mp-27384,Pca2_1,None
+AgBiO3,mp-23548,R-3,Ilmenite
+AgNO3,mp-552185,R3c,Calcite
+AgNO3,mp-638686,Pbca,None
+AgNO3,mp-669466,P2_12_12_1,None
+AgNO3,mp-8196,R3m,None
+SrPSe3,mp-7198,P2_1/c,None
+NaFeF3,mp-1078217,Cmcm,None
+NaFeF3,mp-505066,Pnma,Orthorhombic Perovskite
+NaCO3,mp-1188793,P2_1/c,None
+CaTiO3,mp-1205364,Cmcm,Orthorhombic Perovskite
+CaTiO3,mp-3442,I4/mcm,None
+CaTiO3,mp-4019,Pnma,Orthorhombic Perovskite
+CaTiO3,mp-556003,Imma,Orthorhombic Perovskite
+CaTiO3,mp-5827,Pm-3m,(Cubic) Perovskite
+PbCO3,mp-1105697,P2_1/c,None
+PbCO3,mp-19893,Pnma,None
+InBiO3,mp-545379,Pm-3m,(Cubic) Perovskite
+InBiO3,mp-556892,Pna2_1,Orthorhombic Perovskite
+InBiO3,mp-561102,Pnma,Orthorhombic Perovskite
+BaClO3,mp-1080782,P4/nmm,None
+BaCO3,mp-4559,R3m,None
+BaCO3,mp-545643,P6_3/mmc,None
+BaCO3,mp-5504,Pnma,None
+CsScCl3,mp-27359,P6_3/mmc,None
+SrSnO3,mp-12866,Imma,Orthorhombic Perovskite
+SrSnO3,mp-12867,I4/mcm,None
+SrSnO3,mp-2879,Pnma,Orthorhombic Perovskite
+SrSnO3,mp-546973,Pm-3m,(Cubic) Perovskite
+TlCoCl3,mp-567430,P6_3cm,None
+TlCoCl3,mp-567620,Pbca,None
+TlCoCl3,mp-569753,P6_3/mmc,None
+VPS3,mp-1078971,C2/m,None
+CsMnI3,mp-540609,P6_3/mmc,None
+NbBr3O,mp-606393,P-42_1m,None
+H3CS,mp-554676,P2_1/c,Indium
+H3CS,mp-559204,P2_1/c,Indium
+NaNO3,mp-4531,R-3c,Calcite
+SrNbO3,mp-10339,Pnma,Orthorhombic Perovskite
+SrNbO3,mp-7006,Pm-3m,(Cubic) Perovskite
+MnCO3,mp-1078473,P-1,Calcite
+MnCO3,mp-18814,Cc,Calcite
+SnNF3,mp-1079200,R-3,None
+SnNF3,mp-1080727,C2,None
+LiBeH3,mp-1079676,C2,None
+LiBeH3,mp-24342,Pnma,Orthorhombic Perovskite
+LiBeH3,mp-24817,P-1,None
+LiBeH3,mp-24818,P-1,None
+LiBeH3,mp-570218,P2_1/c,None
+LiBeH3,mp-977148,Cmcm,None
+LiBeH3,mp-977298,C2/c,Esseneite
+ZnSeO3,mp-4682,Pnma,None
+ZnSeO3,mp-5338,Pbca,None
+CsCdF3,mp-8399,Pm-3m,(Cubic) Perovskite
+CdPSe3,mp-1079559,R-3,None
+VCl3O,mp-22938,Pnma,Silicon tetrafluoride
+SrVO3,mp-18717,Pm-3m,(Cubic) Perovskite
+MnNF3,mp-1069166,Pm-3m,(Cubic) Perovskite
+MnNF3,mp-1078939,Pbam,High-temperature superconductor
+MnNiO3,mp-19331,R-3,Ilmenite
+BaSeO3,mp-6989,P2_1/m,Potassium chlorate
+CaTeO3,mp-17008,P2_1,None
+CaTeO3,mp-2981,P-1,None
+CaTeO3,mp-560097,P2_1/c,None
+CaTeO3,mp-560656,P4_3,None
+CaTeO3,mp-561374,P1,None
+BaVO3,mp-1017465,Pm-3m,(Cubic) Perovskite
+BaVO3,mp-19150,P-3m1,(Cubic) Perovskite
+CoBiO3,mp-1188346,Pnma,Orthorhombic Perovskite
+CoBiO3,mp-545522,P4mm,None
+CaNCl3,mp-1106358,Pnma,None
+MgNiH3,mp-1017629,Pm-3m,(Cubic) Perovskite
+RbCoCl3,mp-27707,P6_3/mmc,None
+FePS3,mp-5864,P-1,None
+NiPS3,mp-676040,C2/m,None
+BaSnS3,mp-1183370,Pnma,None
+HgBrO3,mp-27994,C2/c,Indium
+PCF3,mp-540785,P4_2/nmc,Indium
+PCF3,mp-556383,P2_1/c,Indium
+TaCuS3,mp-3102,Pnma,None
+SrTcO3,mp-1079334,Imma,None
+SrTcO3,mp-1188414,Pnma,None
+SrTcO3,mp-12631,Pm-3m,(Cubic) Perovskite
+ScBiO3,mp-550008,Pm-3m,(Cubic) Perovskite
+ScBiO3,mp-555313,Cc,None
+CuSiO3,mp-16053,Pmma,None
+CuSiO3,mp-556982,P-1,Tungsten
+CsAuSe3,mp-567913,C2/c,None
+LiSbO3,mp-4995,Pnna,Ilmenite
+NaZnO3,mp-1180211,P4_2/mbc,None
+CaIrO3,mp-20198,Cmcm,None
+CaIrO3,mp-4243,Cmcm,None
+CaIrO3,mp-555735,Pnma,Orthorhombic Perovskite
+InSiTe3,mp-567931,P-31m,None
+AlBiO3,mp-23080,Pm-3m,(Cubic) Perovskite
+AlBiO3,mp-551918,R3c,None
+SrTiO3,mp-4651,I4/mcm,(Cubic) Perovskite
+SrTiO3,mp-5229,Pm-3m,(Cubic) Perovskite
+CaPtO3,mp-4784,Cmcm,None
+BaRhO3,mp-7685,P6_3/mmc,(Cubic) Perovskite
+RbPO3,mp-4135,P2_1/c,None
+RbPO3,mp-548658,Cmcm,None
+RbPO3,mp-616587,P2_1/c,None
+RbPO3,mp-9138,Pnma,None
+BaHfS3,mp-1105549,Pnma,Orthorhombic Perovskite
+TlBrO3,mp-29798,R3m,Indium
+GePbS3,mp-624190,P2_1/c,None
+CsGeCl3,mp-22988,R3m,(Cubic) Perovskite
+NaNiF3,mp-1078237,Cmcm,None
+NaNiF3,mp-561480,Pnma,Orthorhombic Perovskite
+BaTiS3,mp-7073,P6_3/mmc,None
+ZnTeO3,mp-16819,Pbca,Antimony trioxide
+TiPbO3,mp-19845,Pm-3m,(Cubic) Perovskite
+TiPbO3,mp-20459,P4mm,None
+BaLiH3,mp-23818,Pm-3m,(Cubic) Perovskite
+BaLiH3,mp-632808,Pm-3m,(Cubic) Perovskite
+KCrF3,mp-1180782,Ibam,(Cubic) Perovskite
+KCrF3,mp-556365,C2/m,None
+KCrF3,mp-566131,P4/mmm,(Cubic) Perovskite
+SrMoO3,mp-1078716,Imma,Orthorhombic Perovskite
+SrMoO3,mp-18747,Pm-3m,(Cubic) Perovskite
+FeSO3,mp-540655,P1,None
+CuGeO3,mp-1202570,Pbam,None
+CuGeO3,mp-21344,Pmma,None
+CuGeO3,mp-554874,P2_1/c,None
+KCuCl3,mp-27450,P2_1/c,None
+KCuCl3,mp-636978,P2_1/c,None
+VCuO3,mp-1105167,Im-3,None
+VCuO3,mp-504580,R-3,Ilmenite
+VCuO3,mp-562987,P1,None
+NbTeBr3,mp-28038,P2/c,None
+CdGeO3,mp-13003,Pnma,Orthorhombic Perovskite
+CdGeO3,mp-2951,C2/c,None
+CdGeO3,mp-7588,I4_1/a,Esseneite
+CdGeO3,mp-8275,R-3,Ilmenite
+NaMnF3,mp-560242,Pnma,Orthorhombic Perovskite
+CS3N,mp-29700,C2/c,Indium
+FeBO3,mp-19097,R-3c,Calcite
+RbPbF3,mp-21043,Pm-3m,(Cubic) Perovskite
+RbPbF3,mp-605350,P-1,None
+NaOsO3,mp-1105218,Pnma,Orthorhombic Perovskite
+H3CBr,mp-1078197,Cmc2_1,Indium
+RbCrCl3,mp-30027,C2/c,None
+RbCrCl3,mp-568864,C2,None
+RbCrCl3,mp-568887,C2/m,None
+FeGeO3,mp-22334,C2/c,None
+RbBeH3,mp-975031,P2_1/c,Calcite
+CaGeO3,mp-17761,P-1,None
+CaGeO3,mp-554549,I4_1/a,Esseneite
+CaGeO3,mp-8130,Pnma,Orthorhombic Perovskite
+CsGeBr3,mp-1068340,R3m,(Cubic) Perovskite
+CsGeBr3,mp-570223,Pm-3m,(Cubic) Perovskite
+TlFeI3,mp-23415,Pnma,None
+SrIrO3,mp-1193907,C2/c,Orthorhombic Perovskite
+MnInO3,mp-1193141,P6_3cm,None
+MnInO3,mp-1193780,P-3c1,None
+MnInO3,mp-550807,P6_3/mmc,None
+KSO3,mp-541581,P321,None
+KSO3,mp-558546,P321,None
+CdCO3,mp-1198558,P2_1/c,None
+CdCO3,mp-4385,R-3c,Calcite
+CdCO3,mp-654812,R-3m,None
+NiSeO3,mp-20460,Pnma,Orthorhombic Perovskite
+NiSeO3,mp-572987,C2/c,None
+KFeBr3,mp-23348,Pnma,None
+RbMgF3,mp-541813,P6_3/mmc,(Cubic) Perovskite
+RbMgF3,mp-8402,Pm-3m,(Cubic) Perovskite
+InFeO3,mp-21094,P6_3/mmc,None
+GeH3Cl,mp-28369,Cmc2_1,Silicon tetrafluoride
+RbHgF3,mp-7482,Pm-3m,(Cubic) Perovskite
+CrGeTe3,mp-541449,R-3,None
+SbAsO3,mp-28109,P2_1/c,None
+TlFeBr3,mp-504821,Pnma,None
+TlFeBr3,mp-568553,P6_3cm,None
+CdNF3,mp-1105795,Pnma,None
+CsFeF3,mp-555302,P6_3/mmc,(Cubic) Perovskite
+CsFeF3,mp-558694,Pm-3m,(Cubic) Perovskite
+HgSeO3,mp-10798,P2_1/c,None
+HgSeO3,mp-557224,P2_1/c,None
+HgSeO3,mp-9228,Pnma,None
+CsCrCl3,mp-29616,C2/m,None
+CsCrCl3,mp-570326,P6_3/mmc,None
+CsCrCl3,mp-610955,P6_3mc,None
+CsBeH3,mp-24341,P2_1/m,Potassium chlorate
+KBiO3,mp-29799,Pn-3,None
+CuNCl3,mp-1105578,P2_1/c,Indium
+TlPbI3,mp-27552,Cmcm,None
+ScMnO3,mp-1105811,P2_1/c,Orthorhombic Perovskite
+ScMnO3,mp-18954,P6_3cm,None
+TlHgCl3,mp-1105094,Pnma,None
+AuNCl3,mp-1189694,P2_1/c,High Pressure (4-7GPa) Tellurium
+RbNiCl3,mp-23486,P6_3/mmc,None
+PbSO3,mp-20507,Pnma,None
+PbSO3,mp-21190,P2_1/m,Potassium chlorate
+IOF3,mp-559377,P2_12_12_1,None
+PCl3O,mp-27277,Pna2_1,Silicon tetrafluoride
+BaBiSe3,mp-27365,P2_12_12_1,None
+MgPSe3,mp-30943,R-3,None
+NbTeI3,mp-540924,P2/c,None
+KHgF3,mp-7483,Pm-3m,(Cubic) Perovskite
+CsCaBr3,mp-30056,Pm-3m,(Cubic) Perovskite
+CdTeO3,mp-28290,P2_1/c,None
+RbCoF3,mp-541814,P6_3/mmc,(Cubic) Perovskite
+RbMnF3,mp-558749,Pm-3m,(Cubic) Perovskite
+TcO3F,mp-555390,P2_1/c,None
+KCdF3,mp-10175,Pm-3m,(Cubic) Perovskite
+KCdF3,mp-9628,Pnma,Orthorhombic Perovskite
+CsSiTe3,mp-570957,Cc,None
+RbMgCl3,mp-27208,P6_3/mmc,(Cubic) Perovskite
+RbMgCl3,mp-662499,P6_3/mmc,(Cubic) Perovskite
+MgVO3,mp-1079330,Cmc2_1,None
+MgVO3,mp-545348,Cmmm,None
+CrSbS3,mp-9130,Pnma,None
+CsCoF3,mp-556943,R-3m,None
+CIF3,mp-556845,Cmce,Ammonia
+GaBiO3,mp-22979,Pm-3m,(Cubic) Perovskite
+GaBiO3,mp-558285,Pcca,None
+NaWO3,mp-19328,Pm-3m,(Cubic) Perovskite
+CdNCl3,mp-1080000,Cmcm,None
+CdNCl3,mp-1080587,P2_1/m,None
+CdNCl3,mp-1105591,Pnma,None
+YGaO3,mp-17853,P6_3cm,None
+NbSeBr3,mp-23498,P2/c,None
+CaRuO3,mp-20947,Pnma,Orthorhombic Perovskite
+RbBrO3,mp-28872,R3m,Potassium chlorate
+AgSbO3,mp-540872,Fd-3m,None
+AgSbO3,mp-545999,R-3,Ilmenite
+BaMnO3,mp-1205336,P6_3mc,None
+BaMnO3,mp-18840,R-3m,(Cubic) Perovskite
+BaMnO3,mp-19156,P6_3/mmc,None
+BaMnO3,mp-35078,P6_3/mmc,(Cubic) Perovskite
+BaMnO3,mp-557535,P6_3/mmc,None
+MgCO3,mp-5348,R-3c,Calcite
+MgCO3,mp-546079,C222_1,None
+KTaTe3,mp-568318,P2_1/c,None
+BaLiF3,mp-10250,Pm-3m,(Cubic) Perovskite
+CsVBr3,mp-23038,P6_3/mmc,None
+SrGeO3,mp-1016999,Pm-3m,(Cubic) Perovskite
+SrGeO3,mp-17464,C2/c,None
+SrGeO3,mp-554869,P-1,Esseneite
+SrGeO3,mp-555731,P-62m,None
+KPS3,mp-8267,Immm,None
+CBr3F,mp-28765,Pnma,Cubane
+CsBeF3,mp-1017555,Pm-3m,(Cubic) Perovskite
+CsBeF3,mp-12262,Pnma,None
+KFeF3,mp-556891,Pm-3m,(Cubic) Perovskite
+CoCO3,mp-21434,R-3c,Calcite
+BaOsO3,mp-781625,Pm-3m,(Cubic) Perovskite
+MgPS3,mp-675651,C2/m,None
+TeHO3,mp-625630,Pna2_1,None
+MnSO3,mp-27818,P2_1/c,None
+MnSO3,mp-560522,R-3,None
+CdSiO3,mp-560560,P2_1/c,None
+KTiCl3,mp-568270,P6_3,None
+TiMnO3,mp-19082,R-3,Ilmenite
+TiMnO3,mp-19376,Cc,Ilmenite
+TiMnO3,mp-556925,Pnma,Orthorhombic Perovskite
+MnSnO3,mp-20569,R-3,Ilmenite
+TiGeS3,mp-1105715,Pnma,trigonal omega
+LiMgH3,mp-23736,R3c,Calcite
+InRhO3,mp-1105819,Pnma,Orthorhombic Perovskite
+InRhO3,mp-1203220,P2_1/c,Spinel
+CaInBr3,mp-28534,Cmcm,None
+KMgH3,mp-1017580,Pm-3m,(Cubic) Perovskite
+KMgH3,mp-23737,Pm-3m,(Cubic) Perovskite
+RbAuBr3,mp-27300,C2/m,None
+BaTiSe3,mp-1079893,P6_3/mmc,None
+SNO3,mp-1198920,Pbca,Silicon tetrafluoride
+WCl3O,mp-556208,P4_2/mnm,None
+MnPS3,mp-8613,C2/m,None
+LiCaF3,mp-1017626,Pm-3m,(Cubic) Perovskite
+BaRuO3,mp-3597,P6_3/mmc,(Cubic) Perovskite
+BaRuO3,mp-3598,P6_3/mmc,(Cubic) Perovskite
+BaRuO3,mp-5773,R-3m,(Cubic) Perovskite
+CuTeO3,mp-20977,Pnma,None
+CuTeO3,mp-4320,Pnma,None
+CuTeO3,mp-558696,P2_1/c,None
+ZrCoH3,mp-1188065,Cmcm,Potassium chlorate
+MnSeO3,mp-1199914,P2_1/c,None
+MnSeO3,mp-1202364,P2_1/c,None
+MnSeO3,mp-22224,Pnma,None
+FePSe3,mp-2928,R-3,None
+TlNO3,mp-557704,P3_1,Indium
+TlNO3,mp-5915,Pnma,Indium
+TlNO3,mp-662551,Pnma,None
+TaFeTe3,mp-8848,P2_1/m,None
+CdInBr3,mp-505222,Pnma,None
+AsCF3,mp-27274,P4_2/nmc,Indium
+NaCoF3,mp-1078336,Cmcm,None
+NaCoF3,mp-21404,Pnma,Orthorhombic Perovskite
+RbCdF3,mp-6951,Pm-3m,(Cubic) Perovskite
+HfPbS3,mp-22147,Pnma,None
+H3NCl,mp-1200750,Pa-3,None
+KFeCl3,mp-23538,Pnma,None
+VCdO3,mp-22649,Pnma,Orthorhombic Perovskite
+VCdO3,mp-556857,Pnma,None
+KAsO3,mp-1192552,P-1,None
+KAsO3,mp-1194970,Pbcn,None
+RbSnI3,mp-29405,Pnma,None
+CaNbO3,mp-4957,Pnma,Orthorhombic Perovskite
+CsAgF3,mp-561920,I4/mcm,(Cubic) Perovskite
+YBO3,mp-29205,Cmcm,None
+KZnF3,mp-5878,Pm-3m,(Cubic) Perovskite
+SnPbO3,mp-504543,Fd-3m,None
+CaFeO3,mp-1275341,P2_1/c,Orthorhombic Perovskite
+CaFeO3,mp-19115,Pnma,Orthorhombic Perovskite
+CsGaS3,mp-562726,P2_1/c,None
+InBiS3,mp-1078776,P2_1/m,None
+KNiCl3,mp-27366,P6_3cm,None
+CrBO3,mp-19299,R-3c,Calcite
+ScCrO3,mp-18961,Pnma,Orthorhombic Perovskite
+KCaF3,mp-4950,Pm-3m,(Cubic) Perovskite
+KCaF3,mp-5926,Pnma,Orthorhombic Perovskite
+KCaF3,mp-643749,P2_1/m,Orthorhombic Perovskite
+RbNiF3,mp-556488,P6_3/mmc,(Cubic) Perovskite
+BaZrO3,mp-1019544,I4/mcm,(Cubic) Perovskite
+BaZrO3,mp-3834,Pm-3m,(Cubic) Perovskite
+YVO3,mp-18883,Pnma,Orthorhombic Perovskite
+CsTeSe3,mp-9462,P2_1/c,None
+CaVO3,mp-22608,Pnma,Orthorhombic Perovskite
+RbGeCl3,mp-27369,P2_1/m,Potassium chlorate
+SrCuO3,mp-29049,Pmmm,None
+BaBiO3,mp-22942,C2/m,Orthorhombic Perovskite
+BaBiO3,mp-23438,Fm-3m,(Cubic) Perovskite
+BaBiO3,mp-23482,R-3,None
+BaBiO3,mp-545783,Pm-3m,(Cubic) Perovskite
+BaBiO3,mp-559051,P2_1/c,Orthorhombic Perovskite
+CdPS3,mp-5328,C2/m,None
+LiGaI3,mp-29345,P2_1/m,None
+BaTaS3,mp-4001,P6_3/mmc,None
+FeNCl3,mp-1080474,P6_3/mmc,None
+PBr3O,mp-1189731,Pna2_1,Silicon tetrafluoride
+PBr3O,mp-558645,Pnma,Silicon tetrafluoride
+NbI3O,mp-546285,C2,None
+BaSiO3,mp-12958,R-3m,None
+BaSiO3,mp-18407,P6_3/mmc,(Cubic) Perovskite
+BaSiO3,mp-7339,P2_12_12_1,None
+LiPO3,mp-1202801,Pc,None
+LiPO3,mp-29195,P2_1/c,None
+LiPO3,mp-557189,P2/c,None
+KAuI3,mp-31045,P2_1/c,Orthorhombic Perovskite
+KCaH3,mp-1105914,Pnma,Orthorhombic Perovskite
+KInBr3,mp-28529,P-3,None
+RbVO3,mp-19031,Pbcm,None
+ScBO3,mp-8697,R-3c,Calcite
+SrPS3,mp-9788,P2_1/c,None
+SrTiS3,mp-1080529,P6_3/mmc,None
+RbMnCl3,mp-569309,P6_3/mmc,(Cubic) Perovskite
+CoSeO3,mp-22616,Pnma,Orthorhombic Perovskite
+CoSeO3,mp-562826,C2,None
+TlPO3,mp-27144,P-42_1c,None
+TlPO3,mp-556932,Pbcn,None
+SrOsO3,mp-1105153,Pnma,Orthorhombic Perovskite
+SrSbSe3,mp-1204655,P2_12_12_1,None
+LiScI3,mp-28835,P-6c2,Ilmenite
+RbSeO3,mp-1078830,P-1,None
+CsIO3,mp-28295,Pmn2_1,None
+CsIO3,mp-613384,Pm-3m,(Cubic) Perovskite
+TaTlS3,mp-10795,Pnma,None
+YInO3,mp-504607,P6_3cm,None
+TcPbO3,mp-687205,Fd-3m,None
+KNiF3,mp-560976,Pm-3m,(Cubic) Perovskite
+CsSrF3,mp-8397,Pm-3m,(Cubic) Perovskite
+RbCO3,mp-31271,P2_1/c,None
+CaPSe3,mp-11007,P2_1/c,None
+CaTcO3,mp-1188853,Pnma,Orthorhombic Perovskite
+RbPbI3,mp-23517,Pnma,None
+SnHgO3,mp-13554,R-3c,Hydrophilite
+RbMgH3,mp-23738,P6_3/mmc,(Cubic) Perovskite
+RbCaH3,mp-23949,Pm-3m,(Cubic) Perovskite
+SrSeO3,mp-3395,P2_1/m,Potassium chlorate
+SrSeO3,mp-555098,Pnma,Potassium chlorate
+NaCuF3,mp-17869,P-1,Orthorhombic Perovskite
+SrFeO3,mp-510624,Pm-3m,(Cubic) Perovskite
+CsPdCl3,mp-29882,Ibam,None
+KBeH3,mp-974757,P2_1/c,None
+CsSO3,mp-1068320,R3m,None
+CsSO3,mp-561681,P6_3mc,None
+BiBO3,mp-31250,P2_1/c,Calcite
+SrCO3,mp-3822,Pnma,None
+CsSnSe3,mp-1542038,P-1,None
+CsSnSe3,mp-613162,P-1,None
+TaAgO3,mp-9890,R-3c,None
+LiGaBr3,mp-28327,P2_1/m,None
+RbSO3,mp-3404,P321,None
+ZnSnO3,mp-13334,R3c,Ilmenite
+ZnSnO3,mp-14628,R-3,Ilmenite
+KClO3,mp-23022,P2_1/m,Potassium chlorate
+KClO3,mp-550506,R3m,Potassium chlorate
+KClO3,mp-556084,Pnma,Potassium chlorate
+CsAuI3,mp-28453,I4/mmm,None
+NaZnF3,mp-3795,Pnma,Orthorhombic Perovskite
+BaPS3,mp-11006,P2_1/c,None
+ReO3F,mp-573051,P2/c,None
+RbIO3,mp-27193,R3m,None
+PbSeO3,mp-20716,P2_1/m,Potassium chlorate
+PbSeO3,mp-630329,P2_1/c,None
+TiNiO3,mp-18732,R-3,Ilmenite
+KSiH3,mp-28695,Pnma,None
+BaSnO3,mp-3163,Pm-3m,(Cubic) Perovskite
+InSbS3,mp-21365,Pnma,None
+YTiO3,mp-4355,Pnma,Orthorhombic Perovskite
+MnPSe3,mp-8695,R-3,None
+BaNbS3,mp-35143,P6_3/mmc,None
+CuNF3,mp-1080799,Pm-3m,(Cubic) Perovskite
+AgPO3,mp-18702,P2_1/c,None
+SrSnS3,mp-1205419,Pnma,None
+NiPbO3,mp-1078668,R3c,Ilmenite
+CsTiBr3,mp-22962,P6_3/mmc,None
+HgTeO3,mp-28318,P-1,Antimony trioxide
+NaMgH3,mp-23730,Pnma,Orthorhombic Perovskite
+CsTlF3,mp-1078203,Fm-3m,None
+YCrO3,mp-18725,Pnma,Orthorhombic Perovskite
+MoCl3O,mp-23528,P2_1/c,None
+ZrPbS3,mp-20244,Pnma,None
+VAgO3,mp-559736,Cm,None
+VAgO3,mp-624691,C2/c,None
+TlBSe3,mp-29959,Cc,None
+SnPO3,mp-1095139,Cc,None
+SrCrO3,mp-20029,Pm-3m,(Cubic) Perovskite
+CsVI3,mp-22991,P6_3/mmc,None
+CaPbO3,mp-20079,Pnma,Orthorhombic Perovskite
+InGaO3,mp-8098,P6_3/mmc,None
+KTiI3,mp-640578,P6_3,None
+ScRhO3,mp-1196890,P2_1/c,Ilmenite
+BaZrSe3,mp-1079300,P6_3/mmc,None
+RbBS3,mp-9047,P2_1/c,None
+CaSnO3,mp-4190,R-3,Ilmenite
+CaSnO3,mp-4438,Pnma,Orthorhombic Perovskite
+CaSnO3,mp-546910,Pm-3m,(Cubic) Perovskite
+CaSnO3,mp-7986,Pm-3m,(Cubic) Perovskite
+CsNiF3,mp-1194078,P6_3/mmc,(Cubic) Perovskite
+CsNiF3,mp-505492,R-3m,None
+CsNiF3,mp-557772,P6_3/mmc,None
+RbTiI3,mp-27812,P6_3cm,None
+CsBrO3,mp-28873,R3m,None
+HfSnS3,mp-8725,Pnma,trigonal omega
+FeCO3,mp-18969,C2/c,Calcite
+MgSeO3,mp-12271,Pnma,Orthorhombic Perovskite
+TlFeO3,mp-505819,Pnma,Orthorhombic Perovskite
+CrInO3,mp-756147,Pnma,Orthorhombic Perovskite
+NClO3,mp-1070665,R3m,Ammonia
+CrInBr3,mp-28532,P2_1/c,None
+CCl3F,mp-23071,Pbca,Silicon tetrafluoride
+KTiBr3,mp-567718,P6_3,None
+CaHfS3,mp-1190098,Pnma,Orthorhombic Perovskite
+MnClO3,mp-546798,Cmc2_1,Silicon tetrafluoride
+H3CCl,mp-1078233,Cmc2_1,Silicon tetrafluoride
+KTcCl3,mp-28408,Cc,None
+CsAgCl3,mp-28610,I4/mmm,None
+CuCO3,mp-27249,Cm,None
+KTaO3,mp-3614,Pm-3m,(Cubic) Perovskite
+KTiO3,mp-1180658,P6_3/mmc,None
+CsTiI3,mp-567698,P6_3/mmc,None
+CsGeI3,mp-28377,R3m,(Cubic) Perovskite
+SrHfS3,mp-1208643,Pnma,Orthorhombic Perovskite
+GePbO3,mp-1017566,Pm-3m,(Cubic) Perovskite
+GePbO3,mp-553898,P2/c,None
+GePbO3,mp-554699,R-3,None
+SrBiO3,mp-29164,P2_1/c,Orthorhombic Perovskite
+RbCdCl3,mp-23390,Pnma,None
+CsHgCl3,mp-1197432,P2_1/c,None
+CsHgCl3,mp-29845,P3_2,None
+CsHgCl3,mp-570591,Pm-3m,(Cubic) Perovskite
+MnInBr3,mp-28912,Pnma,None
+CsVO3,mp-504651,Pbcm,None
+KVO3,mp-18815,Pbcm,None
+RbGeBr3,mp-28558,Pna2_1,Orthorhombic Perovskite
+TlVO3,mp-22330,Pbcm,None
+CsNiBr3,mp-1080570,P6_3/mmc,None
+ReClO3,mp-974724,P2_1/c,Silicon tetrafluoride
+CuSe3Br,mp-28741,Pmna,None
+NaAsO3,mp-17868,P-1,None
+RbAuI3,mp-568666,C2/m,None
+KBrO3,mp-22958,R3m,Potassium chlorate
+SnGeS3,mp-5045,P2_1/c,None
+BaZrS3,mp-540771,Pnma,Orthorhombic Perovskite
+NbCuO3,mp-17272,C2/m,None
+VHgO3,mp-29188,P-1,None
+CsVCl3,mp-22977,P6_3/mmc,None
+RbVI3,mp-672346,P6_3cm,None
+NiPSe3,mp-1079754,C2/m,None
+SiPbO3,mp-21723,P2/c,None
+CsMgI3,mp-29751,P6_3/mmc,None
+MnCoO3,mp-20641,R-3,Ilmenite
+CaCrO3,mp-20772,Pnma,Orthorhombic Perovskite
+TaSnO3,mp-8074,Pm-3m,(Cubic) Perovskite
+NaBiO3,mp-23054,R-3,Ilmenite
+CrGaSe3,mp-8829,Pnma,None
+CsNiCl3,mp-22950,P6_3/mmc,None
+SiH3F,mp-28289,P2_1/c,Silicon tetrafluoride
+NiCO3,mp-19147,R-3c,Calcite
+NaIrO3,mp-1079568,Cmcm,None
+TiHgO3,mp-7607,R-3c,Hydrophilite
+RbTaO3,mp-3033,C2/m,Pb(Zr_(1-x)Ti_x)O3
+PPbO3,mp-1195541,Cmc2_1,None
+AlBr3N,mp-1202918,Pbca,Silicon tetrafluoride
+KMgCl3,mp-27865,Pnma,Orthorhombic Perovskite
+TaTlSe3,mp-12027,Pnma,None
+RbCrI3,mp-27442,C2,None
+HgPSe3,mp-7293,C2/c,None
+KHgI3,mp-1190406,Pna2_1,None
+BaCoO3,mp-18965,P-1,None
+InFeBr3,mp-617426,Pnma,None
+NaHgCl3,mp-608490,Pnma,None
+BaVSe3,mp-27363,P6_3/mmc,None
+NaCdF3,mp-4360,R3c,Ilmenite
+CsMnCl3,mp-23336,R-3m,(Cubic) Perovskite
+LiReO3,mp-8189,R3c,Ilmenite
+RbZnF3,mp-4975,P6_3/mmc,(Cubic) Perovskite
+MgTiO3,mp-3771,R-3,Ilmenite
+CsBSe3,mp-573358,P2_1/c,None
+CaPS3,mp-9789,P2_1/c,Zircon
+TiSnO3,mp-1018639,Pm-3m,(Cubic) Perovskite
+CsSnF3,mp-1105915,P2_1/c,None
+RbFeF3,mp-554465,Pm-3m,(Cubic) Perovskite
+SrBiSe3,mp-28476,P2_12_12_1,None
+BaSbTe3,mp-18291,P2_12_12_1,None
+TlGeI3,mp-29288,Pnma,None
+CoPS3,mp-676437,C2/m,None
+SrPbO3,mp-20489,Pnma,Orthorhombic Perovskite
+NaVF3,mp-20572,Pm-3m,(Cubic) Perovskite
+MgInBr3,mp-29483,Pnma,None
+KPdF3,mp-9061,Pm-3m,(Cubic) Perovskite
+KCoF3,mp-559946,Pm-3m,(Cubic) Perovskite
+BaPSe3,mp-11008,P2_1/c,None
+CaSeO3,mp-557997,P2_1/c,None
+LiGaCl3,mp-29344,Pnma,None
+RbVF3,mp-556424,Pm-3m,(Cubic) Perovskite
+SrLiH3,mp-24419,Pm-3m,(Cubic) Perovskite
+LiBrO3,mp-1197831,Pbca,None
+VOF3,mp-556026,P2_1/c,Hg_xSn
+KVF3,mp-557257,Pm-3m,(Cubic) Perovskite
+AgAsO3,mp-558950,Pca2_1,None
+GaFeO3,mp-649086,Pna2_1,None
+RbMnBr3,mp-29763,P6_3/mmc,None
+BrNO3,mp-29526,P2_12_12_1,None
+RbTiCl3,mp-28282,P6_3/mmc,None
+BaGeO3,mp-13863,P2_12_12_1,None
+CsHgF3,mp-561947,Pm-3m,(Cubic) Perovskite
+CsNbO3,mp-27556,P2_1/c,None
+H3OF,mp-27714,Pnma,None
+InBO3,mp-7027,R-3c,Calcite
+AgClO3,mp-27941,I4/m,None
+SrZrSe3,mp-541570,Pnma,None
+ZrNiH3,mp-29658,Cmcm,Potassium chlorate
+BaMoO3,mp-19322,Pm-3m,(Cubic) Perovskite
+CaNiH3,mp-1207078,Pm-3m,(Cubic) Perovskite
+CsMnF3,mp-558702,P6_3/mmc,(Cubic) Perovskite
+NbSeCl3,mp-570270,P2/c,None
+KCdCl3,mp-23442,Pnma,None
+TlCdBr3,mp-28219,Pnma,None
+CsCuCl3,mp-567366,P6_3mc,None
